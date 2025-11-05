@@ -1,2 +1,2 @@
-# digital-store
-Desenvolvimento de loja virtual, aprendendo o básico.
+# Digital Store
+## Desenvolvimento de loja virtual, aula pratica.
